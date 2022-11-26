@@ -2,7 +2,7 @@
 
 Track who's not following you back and whom you're not following back on Instagram.
 
-## Dependencies:
+## Dependencies
 
 - selenium
 - Google Chrome
